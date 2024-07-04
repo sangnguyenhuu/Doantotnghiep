@@ -1,0 +1,15 @@
+https://localhost/testthanhtoanmomo/thongtinthanhtoanmomo
+?partnerCode=MOMOBKUN20180529
+&orderId=1714643095
+&requestId=1714643095
+&amount=20000
+&orderInfo=Thanh+to%C3%A1n+qua+MoMo
+&orderType=momo_wallet
+&transId=4033109662
+&resultCode=0
+&message=Successful.
+&payType=napas
+&responseTime=1714643223885
+&extraData=
+&signature=d12462e3a1dcd86ad49c27626e4ce6046f813f3ab1d498277e973e0349094d3a
+&paymentOption=momo
